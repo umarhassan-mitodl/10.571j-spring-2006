@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "legacy_uid": "1a2f9a1f-145d-b142-eaf2-2b153f3ed7d0",
+  "instructors": {
+    "content": [
+      "35b0d0d0-03df-8832-956f-c708296ae939",
+      "b531928d-7a85-1672-bb22-f0ce26134f07"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "73123c7e-a414-a257-dde4-ae35dde88f7a",
+    "website": "10-571j-atmospheric-physics-and-chemistry-spring-2006"
+  },
+  "course_title": "Atmospheric Physics and Chemistry",
+  "course_description": "This course provides an introduction to the physics and chemistry of the atmosphere, including experience with computer codes. It is intended for undergraduates and first year graduate students.\n",
+  "department_numbers": [
+    "10",
+    "12"
+  ],
+  "extra_course_numbers": "12.306,12.806J",
+  "primary_course_number": "10.571J",
+  "course_image_thumbnail": {
+    "content": "01db3a39-b119-2a50-a1fd-108dd796cd5a",
+    "website": "10-571j-atmospheric-physics-and-chemistry-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "bf9bc138-785d-4742-b7e7-4c6bd9835f16",
+  "site_short_id": "10.571j-spring-2006",
+  "site_url_path": "courses/10-571j-atmospheric-physics-and-chemistry-spring-2006",
+  "title": "Course Metadata"
+}
