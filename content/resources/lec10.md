@@ -4,6 +4,8 @@ description: Lecture presentation.
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/e1962e653a0f9c237b1ec4c4bcc4571a_lec10.pdf
 file_size: 76105
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

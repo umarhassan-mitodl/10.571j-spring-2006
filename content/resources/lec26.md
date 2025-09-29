@@ -6,6 +6,8 @@ description: Lecture presentation covering information on 3 dimentional gloabl m
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/54deead759adf73caf11a9fb189a76f4_lec26.pdf
 file_size: 479524
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

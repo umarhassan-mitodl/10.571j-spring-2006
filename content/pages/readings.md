@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the various readings for the course as per the
   topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ Poinsot, T., and D. Veynante. _Theoretical and Numerical Combustion_. 2nd ed. Fl
 
 Stone, R. _Introduction to Internal Combustion Engines_. 3rd ed. Warrendale, PA: SAE International, 1999. ISBN: 9780768004953.
 
-{{% resource_link "3e8df631-e9f9-4bca-bc93-687f1eb7b340" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Taylor, C. F. {{% resource_link "3e8df631-e9f9-4bca-bc93-687f1eb7b340" "_Internal Combustion Engine in Theory and Practice: Vol. 2 - 2nd Edition, Revised: Combustion, Fuels, Materials, Design_" %}}. Cambridge, MA: The MIT Press, 1985. ISBN: 9780262700276.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262700276) Taylor, C. F. [_Internal Combustion Engine in Theory and Practice: Vol. 2 - 2nd Edition, Revised: Combustion, Fuels, Materials, Design_](https://mitpress.mit.edu/9780262700276). Cambridge, MA: The MIT Press, 1985. ISBN: 9780262700276.
 
 Warnatz, J., U. Maas, and R. W. Dibble. _Combustion: Physical and Chemical Fundamentals, Modeling and Simulation, Experiments, Pollutant Formation_. 3rd ed. New York, NY: Springer-Verlag, 2001. ISBN: 9783540677512.
 
@@ -129,21 +131,21 @@ Scientific Journals
 
 Some of the key scientific journals containing articles related to atmospheric chemistry and air pollution are:
 
-Journal of the {{% resource_link "bbdca83c-4a95-4e54-bb75-9790caffa5d7" "Air and Waste Management Association" %}}
+Journal of the [Air and Waste Management Association](http://www.awma.org/)
 
-{{% resource_link "b8adaa02-cded-4546-9349-3f9d04ae61cb" "Atmospheric Environment" %}} (Search for Atmospheric Environment)
+[Atmospheric Environment](http://www.elsevier.com/) (Search for Atmospheric Environment)
 
-{{% resource_link "0b667e65-8296-4e6a-a3d5-c3ec419af1f1" "Environmental Science and Technology" %}}
+[Environmental Science and Technology](http://pubs.acs.org/journals/esthag/)
 
-{{% resource_link "f0c4cfe3-f9eb-4d90-912c-498900bfd97b" "Journal of Geophysical Research" %}}
+[Journal of Geophysical Research](http://www.agu.org/journals/jd/)
 
-In addition to the above journals, {{% resource_link "82918b9a-719c-4d28-a0ca-a431e2cc90eb" "Science" %}} and {{% resource_link "9c80d7ee-69c1-4818-90b6-b8eaf29e2385" "Nature" %}} occasionally have articles related to climate change.
+In addition to the above journals, [Science](http://www.sciencemag.org/) and [Nature](http://www.nature.com/) occasionally have articles related to climate change.
 
 Organizations Concerned with Air Pollution
 ------------------------------------------
 
 There are numerous organizations that are concerned with air pollution issues. In the United States two of the most important regulatory agencies are:
 
-{{% resource_link "507266d5-bfc9-47ae-a90b-957fada87e39" "The U.S. Environmental Protection Agency" %}} (USEPA)
+[The U.S. Environmental Protection Agency](http://www.epa.gov/) (USEPA)
 
-{{% resource_link "c96f222c-6c11-465d-a323-423bc83dbc76" "The California Air Resources Board" %}} (CARB)
+[The California Air Resources Board](http://www.arb.ca.gov/homepage.htm) (CARB)

@@ -5,6 +5,8 @@ description: Lecture presentation covering estimating surface/internal sources a
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/dbcb0198693ce0a3336b8ea1de13a0d4_lec21.pdf
 file_size: 262622
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Homework assignment.
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/c24462324d52886375ca0e6dc64e6095_psn_1.pdf
 file_size: 108502
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

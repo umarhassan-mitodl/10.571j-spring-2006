@@ -6,6 +6,8 @@ description: This resource contains information on integration of the science an
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/d651940de6a7148d4ee46c320f9f7df2_lec27.pdf
 file_size: 1452508
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
