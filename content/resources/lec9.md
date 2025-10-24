@@ -5,8 +5,6 @@ description: Lecture presentation covering components of atmospheric chemistry m
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/b8f2567f176527bf69a029c59498c7a3_lec9.pdf
 file_size: 464269
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

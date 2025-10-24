@@ -4,8 +4,6 @@ description: Take home exam problems.
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/bd07f8faa92b66f9fd75d75deb3ac6a9_t_hm_exam.pdf
 file_size: 46946
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

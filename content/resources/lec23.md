@@ -6,8 +6,6 @@ description: Lecture presentation covering information on handling model and cal
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/aa5f163b36a066ac07b3c09cc7f4fc74_lec23.pdf
 file_size: 479202
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

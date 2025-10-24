@@ -34,7 +34,6 @@
     "website": "10-571j-atmospheric-physics-and-chemistry-spring-2006"
   },
   "course_title": "Atmospheric Physics and Chemistry",
-  "hide_download": true,
   "course_description": "This course provides an introduction to the physics and chemistry of the atmosphere, including experience with computer codes. It is intended for undergraduates and first year graduate students.\n",
   "department_numbers": [
     "10",
@@ -46,7 +45,6 @@
     "content": "01db3a39-b119-2a50-a1fd-108dd796cd5a",
     "website": "10-571j-atmospheric-physics-and-chemistry-spring-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

@@ -7,8 +7,6 @@ description: Lecture presentation covering methane similations, reference simula
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/42bb0fc1b384aabe0b98316a50073f1f_lec19.pdf
 file_size: 915627
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

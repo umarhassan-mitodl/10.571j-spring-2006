@@ -6,8 +6,6 @@ description: Lecture presentation covering kalman filter equations, review of th
 file: /courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/e8d16ce399949cc3247717232dba3deb_lec24.pdf
 file_size: 291689
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
